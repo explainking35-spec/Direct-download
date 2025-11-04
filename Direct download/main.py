@@ -4,7 +4,7 @@ import os, requests
 
 BOT_TOKEN = "8530861151:AAH9JX11RSgCgfWaMYlIgvBjg5KxOISMJZk"  # 🔹 अपना Token डालो
 CHANNEL_USERNAME = "Digitalindia8"  # 🔹 बिना @ के Channel username
-SERVER_URL = "https://your-app-name.onrender.com"  # 🔹 Render URL (deploy के बाद बदलना)
+SERVER_URL = "https://direct-download-3.onrender.com"  # 🔹 Render URL (deploy के बाद बदलना)
 
 UPLOAD_DIR = "static"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
